@@ -1,1 +1,1 @@
-# ClarityGrowGardenStock13
+# grow-a-garden-stock-tracker
