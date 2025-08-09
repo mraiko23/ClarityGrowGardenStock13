@@ -330,10 +330,6 @@ process.on('SIGTERM', () => {
   });
 });
 
-// Export functions for testing
-module.exports = {
-  fetchStockData,
-  fetchWeatherData
-}; 
+
 
 
